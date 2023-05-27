@@ -52,6 +52,7 @@ body>div {
     min-width: 120px;
     transition: opacity 0.2s ease;
     user-select: none;
+    text-align: center;
 }
 
 .btn--success {
